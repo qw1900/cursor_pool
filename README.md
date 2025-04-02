@@ -10,4 +10,5 @@ cursor pool 仅支持win板
 一键修改重置机器码、账号
 
 有问题加群反馈
+
 ![image](https://gh-proxy.com/https://raw.githubusercontent.com/qw1900/cursor_pool/refs/heads/main/17435761572717.png)
